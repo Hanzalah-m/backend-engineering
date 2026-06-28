@@ -1,10 +1,10 @@
-# 🚀 Backend Engineering — Concepts & Examples
+# Backend Engineering — Concepts & Examples
 
 A comprehensive reference guide documenting backend engineering concepts with working **Express.js** examples. Built as a personal learning repository.
 
 ---
 
-## 📚 Table of Contents
+##  Table of Contents
 
 | # | Topic | Description |
 |---|-------|-------------|
@@ -20,7 +20,7 @@ A comprehensive reference guide documenting backend engineering concepts with wo
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Runtime:** Node.js
 - **Framework:** Express.js
@@ -32,7 +32,7 @@ A comprehensive reference guide documenting backend engineering concepts with wo
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/backend-engineering.git
