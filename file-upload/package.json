@@ -1,0 +1,11 @@
+{
+  "name": "file-upload",
+  "version": "1.0.0",
+  "description": "File upload handling with Multer and Express",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
