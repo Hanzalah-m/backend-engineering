@@ -4,7 +4,7 @@ const jwt = require("jsonwebtoken");
 const app = express();
 app.use(express.json());
 
-const SECRET_KEY = "your-super-secret-key"; // In production: use env variable
+const SECRET_KEY = "your-secret-key"; // In production: use env variable
 
 // Mock user database
 const users = [{ id: 1, username: "alice", password: "password123" }];
